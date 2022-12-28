@@ -1,3 +1,14 @@
+## 2.5.2
+
+* Fix type-error to get useful RpcError.
+
+## 2.5.1
+
+* Remove build.yaml that was pointing to obsolete builder.
+## 2.5.0
+
+* Deprecate async methods.
+
 ## 2.4.1
 
 * Update dependencies.
